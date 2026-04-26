@@ -1,4 +1,4 @@
-WhatsApp Image 2026-04-26 at 12.58.55 PM.jpeg## Hi there 👋
+![logo](https://github.com/muhammadazharmustafa18-Am/muhammadazharmustafa18-Am/blob/main/WhatsApp%20Image%202026-04-26%20at%2012.58.55%20PM.jpeg)
 
 <!--
 **muhammadazharmustafa18-Am/muhammadazharmustafa18-Am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
